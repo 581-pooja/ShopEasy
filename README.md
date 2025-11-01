@@ -3,6 +3,29 @@
 **ShopEasy** is a mini **Amazon clone** built using **React Native** for frontend and **MongoDB Atlas + Node.js/Express.js** for backend.  
 Users can **browse products**, **manage carts**, **place orders**, and handle **profiles & addresses** seamlessly.
 
+## 📸 Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(1).png?raw=true" width="200" height="400"/></td>
+        <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(3).png?raw=true" width="200" height="400"/></td>
+        <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(11).png?raw=true" width="200" height="400"/></td>
+        <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(10).png?raw=true" width="200" height="400"/></td>
+  </tr>
+   <tr>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(13).png?raw=true" width="200" height="400"/></td>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(7).png?raw=true" width="200" height="400"/></td>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(9).png?raw=true" width="200" height="400"/></td>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(6).png?raw=true" width="200" height="400"/></td>
+  </tr>
+
+   <tr>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(5).png?raw=true" width="200" height="400"/></td>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(4).png?raw=true" width="200" height="400"/></td>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(12).png?raw=true" width="200" height="400"/></td>
+         <td><img src="https://github.com/581-pooja/ShopEasy/blob/main/imagesShopEasy/shopEasy%20(2).png?raw=true" width="200" height="400"/></td>
+  </tr>
+</table>
+
 ## 📚 Concepts Covered & Learned
 ### ✅ Frontend
 - **React Native components:** `View`, `ScrollView`, `FlatList`, `Pressable`  
